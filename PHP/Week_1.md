@@ -1,2 +1,2 @@
 <!-- ![](./images/0001.jpg) -->
-<img src='./images/0001.jpg' width='400'>
+<img src='./images/0001.jpg' width='500'>
